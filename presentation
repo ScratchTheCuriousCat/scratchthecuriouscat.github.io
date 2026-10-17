@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>ScratchTheCuriousCat </title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Arial, sans-serif;
+      background-color: white;
+      margin: 0;
+      padding: 20px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Presentation</h1>
+<style>
+  #box {
+    text-align: center;
+    background-color: gray;
+    font-size: 30px;
+    color: white;
+
+  }
+
+  #description {
+    text-align: left;
+    background-color: gray;
+    font-size: 30px;
+    color: white;
+  }
+</style>
+
+<body>
+  <p id="box">ScratchTheCuriousCat</p>
+  <p id="description">ScratchTheCuriousCat is a person who is really into Machine Learning (AI), this is his first time coding in HTML5 🥳
+    
+  </p>
